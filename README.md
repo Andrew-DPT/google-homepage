@@ -1,1 +1,7 @@
-This project is brought to you by TOP: Re-building the Google Homepage.
+<h1>The Odin Project: Google Homepage</h1>
+<h2>Reconstructing the Google Homepage</h2>
+<p><em>To Do:</em></p>
+<ul>
+    <li>Add 'search by voice' feature</li>
+    <li>Add label to apps and accounts hover
+</ul>
