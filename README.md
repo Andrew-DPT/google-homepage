@@ -3,5 +3,6 @@
 <p><em>To Do:</em></p>
 <ul>
     <li>Add 'search by voice' feature</li>
-    <li>Add label to apps and accounts hover
+    <li>Change account picture</li>
+    <li>Add label to apps and accounts hover</li>
 </ul>
